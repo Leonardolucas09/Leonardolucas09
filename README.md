@@ -1,4 +1,4 @@
-### Olá, me chamo Leonardo Lucas
+### Olá, me chamo Leonardo Lucas de Oliveira
 
 - 📚 **Sei HTML e css, Python, React, Java e Javascript**
 - 🔆 **Estudo no SENAC RS - Curso de Informática para Website e Mobile**
