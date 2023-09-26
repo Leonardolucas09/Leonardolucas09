@@ -1,6 +1,6 @@
 ### Olá, me chamo Leonardo Lucas de Oliveira
 
-- 📚 **Sei HTML e css, Python, React, Java e Javascript**
+- 📚 **Sei HTML e CSS, React, Java e Javascript**
 - 🔆 **Estudo no SENAC RS - Curso de Informática para Website e Mobile**
 - 👾 **Atualmente fazendo o Curso de Desenvolvimento de Jogos da Danki Code**
 
