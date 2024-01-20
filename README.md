@@ -1,14 +1,13 @@
-### Olá, me chamo Leonardo Lucas de Oliveira
+### Hello! I am Leonardo Lucas de Oliveira
 
-- 📚 **Sei HTML e CSS, React, Java e Javascript**
-- 🔆 **Estudo no SENAC RS - Curso de Informática para Website e Mobile**
-- 👾 **Atualmente fazendo o Curso de Desenvolvimento de Jogos da Danki Code**
+- 📚 **HTML5 e CSS3, Javascript, MySQL**
+- 🔆 **Web Developer by Senac RS**
+- 👾 **Currently taking the Game Development Course at Danki Code**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
