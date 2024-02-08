@@ -1,6 +1,6 @@
 ### Hello! I am Leonardo Lucas de Oliveira
 
-- 📚 **HTML5 e CSS3, Javascript, MySQL**
+- 📚 **HTML5 e CSS3, Javascript, MySQL, Node.JS, GIT, Github**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
 
