@@ -1,6 +1,7 @@
 ### Hello! I am Leonardo Lucas de Oliveira
 
-- 📚 **HTML5 e CSS3, Javascript, MySQL**
+- 📚 **HTML5 e CSS3, Javascript, MySQL, C**
+- 🔆 **Studying Science Computer in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
 
@@ -9,6 +10,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-CSS" height="50" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="Leo-CSS" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
   
 </div>
   
