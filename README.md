@@ -4,7 +4,6 @@
 - 🔆 **Studying Science Computer in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
-- 📓 **Currently taking the Python Programmation Course at Alura by Instituto Caldeira**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
