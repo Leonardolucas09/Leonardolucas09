@@ -1,7 +1,7 @@
 ### Hello! I am Leonardo Lucas de Oliveira
 
 - 📚 **HTML5 & CSS3, Javascript, MySQL, C**
-- 🔆 **Studying Science Computer in Unisinos**
+- 🔆 **Studying Systems Analysis and Development in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
 
@@ -18,5 +18,5 @@
  
 <div> 
   <a  href="https://www.instagram.com/leooo_os/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 	 <a  href = "mailto:iruko09@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 	 <a  href = "mailto:leonardolucasdeoliveira4@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
