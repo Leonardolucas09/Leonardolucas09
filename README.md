@@ -1,6 +1,7 @@
 ### Hello! I am Leonardo Lucas de Oliveira
 
 - 📚 **HTML5 & CSS3, Javascript, MySQL, C**
+- 📚 **Studying React.js**
 - 🔆 **Studying Systems Analysis and Development in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
