@@ -2,7 +2,7 @@
 
 - 📚 **HTML5 & CSS3, Javascript, MySQL, C**
 - 📚 **Studying React.js**
-- 🔆 **Studying Systems Analysis and Development in Unisinos**
+- 🔆 **Student of Systems Analysis and Development in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 - 👾 **Currently taking the Game Development Course at Danki Code**
 
