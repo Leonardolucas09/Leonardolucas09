@@ -4,7 +4,6 @@
 - 📚 **Studying React.js & Java**
 - 🔆 **Student of Systems Analysis and Development in Unisinos**
 - 🔆 **Web Developer by Senac RS**
-- 👾 **Currently taking the Game Development Course at Danki Code**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
