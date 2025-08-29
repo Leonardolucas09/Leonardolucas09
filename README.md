@@ -1,12 +1,12 @@
 ### Hello! I am Leonardo Lucas de Oliveira
 
-- 📚 **Javascript, MySQL, C & Java**
+- 📚 **Javascript, PostgreSQL, C & Java**
 - 📚 **Studying React.js**
 - 🔆 **Student of Systems Analysis and Development in Unisinos**
 - 🔆 **Web Developer by Senac RS**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Js" height="35" width="40" src="https://www.flaticon.com/free-icon/postgre_5968342?term=postgre&page=1&position=1&origin=tag&related_id=5968342">
   <img align="center" alt="Leo-MySQL" height="50" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img align="center" alt="Leo-C" height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
   <img align="center" alt="Leo-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
